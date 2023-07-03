@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-console",
+  "version": "0.0.1",
+  "description": "定制ESLint rule of console",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "keywords": [
+    "eslint-plugin",
+    "eslint-plugin-console"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "mocha": "^10.2.0"
+  }
+}
